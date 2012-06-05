@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="defbb4d9-53f1-4089-9d8a-6f1e81632c1e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test1.rb" afterPath="$PROJECT_DIR$/test1.rb" />
-    </list>
+    <list default="true" id="defbb4d9-53f1-4089-9d8a-6f1e81632c1e" name="Default" comment="" />
     <ignored path="anotherTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -152,7 +150,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="441" y="0" width="981" height="809" extended-state="0" />
+    <frame x="441" y="0" width="981" height="809" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
